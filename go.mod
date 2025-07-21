@@ -1,3 +1,3 @@
-module github.com/Pramod-Devireddy/go-exprtk
+module github.com/chasingegg/go-exprtk
 
 go 1.16
